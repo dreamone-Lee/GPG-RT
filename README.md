@@ -2,7 +2,7 @@
 This repo includes the implementation of GPG-RT Algorithm described in the paper *GPG-RT: Generalized Policy Gradient with Real-Time Information for the Stochastic On-Time Arrival Routing Problem*, and the benchmarks, namely [DOT](https://www.sciencedirect.com/science/article/pii/S0191261520303271), [FMA](https://ieeexplore.ieee.org/abstract/document/9832008), [OS-MIP](https://www.sciencedirect.com/science/article/pii/S0191261515301429), [ILP](https://ieeexplore.ieee.org/document/8543229), [GP3](https://ieeexplore.ieee.org/abstract/document/9522098), [PQL](https://ieeexplore.ieee.org/abstract/document/8952783), and [CTD](https://ieeexplore.ieee.org/abstract/document/9497787/) used for comparison.
 
 ## Dataset
-The network data used for conducting simulations is available at [Networks.zip](https://drive.google.com/file/d/1avgd6umcjqQKVis6C7U5ba7hYkA4S2_V/view?usp=sharing). Please unzip the downloaded file into the same directory of the source code.
+The network data used for conducting simulations is available at [Networks.zip](https://drive.google.com/file/d/1B-NNZ7lxKrulPy6ncVzeusUrocVgUlny/view?usp=drive_link). Please unzip the downloaded file into the same directory of the source code.
 The dataset includes 5 networks/time slots. Each of them consists of 3 files:
 
 - `_network.csv`, nodes and links of the network, and mean cost of each link.
